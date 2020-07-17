@@ -1,1 +1,1 @@
-web: gunicorn messageboard.wsgi --log-file -
+web: gunicorn why.wsgi --log-file -
