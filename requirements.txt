@@ -4,3 +4,4 @@ django-widget-tweaks
 Markdown
 python-decouple
 pytz
+gunicorn
